@@ -22,7 +22,7 @@ func main(){
 
 	var myString string = "Hello \nWorld"
 	fmt.Println(myString)
-	var longString string = `bhnjkkkkkkkk
+	var longString string = `bhnjkkkkkkkk new
 	bnjmkm long string
 	`
 
